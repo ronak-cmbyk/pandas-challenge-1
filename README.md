@@ -1,1 +1,2 @@
-# pandas-challenge-1
+## pandas-challenge-1
+This repository contains a .csv file and a .ipynb to run in your terminal to utilize the pandas data library to sort, group, and transform large datasets. Using the client_dataset.csv, the wholesale_data_analysis_starter_code.ipynb creates summarizing statistics and runs calculations to produce new columns to analyze the wholesale client data. You can see as the program runs, that the data becomes easier and cleaner to read, and thus, interpret.
